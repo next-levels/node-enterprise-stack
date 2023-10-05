@@ -1,0 +1,3 @@
+[submodule "next-framework"]
+	path = next-framework
+	url = https://github.com/next-levels/next-framework
